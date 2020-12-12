@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaEntidades\bin\Debug\CapaEntidades.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaEntidades\bin\Debug\CapaEntidades.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaEntidades\obj\Debug\CapaEntidades.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaEntidades\obj\Debug\CapaEntidades.pdb

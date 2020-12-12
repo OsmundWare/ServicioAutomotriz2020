@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\bin\CapaPresentacion.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\bin\CapaPresentacion.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\bin\CapaEntidades.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\bin\CapaLogicaNegocio.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\bin\CapaEntidades.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\bin\CapaLogicaNegocio.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\ServicioAutomotriz2020\CapaPresentacion\bin\AjaxControlToolkit.dll

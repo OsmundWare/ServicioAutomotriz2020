@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaLogicaNegocio\bin\Debug\CapaEntidades.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaLogicaNegocio\bin\Debug\CapaEntidades.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\ServicioAutomotriz2020\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
